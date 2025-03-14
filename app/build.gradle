@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.example.ejercicio24breng"
     compileSdk 32
 
     defaultConfig {
